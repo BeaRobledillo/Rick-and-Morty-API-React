@@ -6,6 +6,8 @@ List
 
 Pagination
 
+Live demo: https://rick-and-morty-api-react-wine.vercel.app/
+
 # ScreenShoots
 
 ![Screenshot](Screenshot.PNG)
