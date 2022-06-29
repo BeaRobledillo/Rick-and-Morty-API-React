@@ -1,7 +1,9 @@
 # Rick-and-Morty-API-React
 
 Use https://afuh.dev/the-rick-and-morty-api
+
 List 
+
 Pagination
 
 # ScreenShoots
