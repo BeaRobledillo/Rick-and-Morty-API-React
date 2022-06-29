@@ -22,7 +22,7 @@ Pagination
 - Comment your friends and colleagues about this project. :loudspeaker:
 - Thank the team. :slightly_smiling_face:
 - Invite the team for a beer. :beer:
-- 
+
 # Rick-and-Morty-API-React
 
 # Getting Started with Create React App
